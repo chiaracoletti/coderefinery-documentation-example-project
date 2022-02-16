@@ -14,7 +14,8 @@ Here are the necessary libraries you need to install:
 - numpy
 
 # Example
-To display temperature data from a certain day run the folloeing command
+To display temperature data from a certain day run the following command
+
 `analyze_spreadsheet.py --day=01 --month=01 --year=2022`
 
 This will be the output:
